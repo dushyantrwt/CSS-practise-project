@@ -269,14 +269,20 @@ ul a{
     background-color: #131A22;
     color: white;
     height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-.footer-panel4 pages{
-    display: flex;
-    margin-left: 5px;
-    justify-content: center;
-    align-items: center;
+.pages{
+    text-align: center;
+    font-size: 0.7rem;
+    padding-top: 20px;
+}
+
+.pages a{
+    padding-left: 15px;
+}
+
+.copy{
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 5px;
 }
